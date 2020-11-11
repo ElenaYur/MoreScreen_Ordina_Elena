@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoreScreen_Ordina_Elena</string>
+    <string name="rubik">Кубик рубик</string>
+    <string name="clock">Часы</string>
+    <string name="image">Картина</string>
+    <string name="illus">Иллюзия</string>
+</resources>
